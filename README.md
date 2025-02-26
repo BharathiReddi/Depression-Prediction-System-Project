@@ -6,10 +6,15 @@ The AI-Powered Depression Prediction System is a machine learning and deep learn
 Mental health disorders, particularly depression, have become a significant public health concern. Early detection and intervention are crucial for effective treatment. This project aims to provide a technology-driven solution to assist healthcare professionals in identifying depression symptoms efficiently.
 
 🚀 Features
+
 ✅ SVM-Based Classification – Utilizes traditional ML techniques for depression detection.
+
 ✅ Deep Learning with CNN-LSTM – Captures both spatial and sequential dependencies in data for more accurate predictions.
+
 ✅ Automated Feature Extraction – Reduces manual feature engineering using CNN-based architectures.
+
 ✅ Textual Analysis – Can process time-based patterns (e.g., speech, text sentiment) for better mental health assessment.
+
 ✅ Scalable & Extendable – Can be improved with additional datasets and features.
 
 🔬 Methodology
