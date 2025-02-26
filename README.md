@@ -35,9 +35,12 @@ Data Preprocessing & Feature Engineering
 Text preprocessing (if using social media posts or survey responses).
 Normalization and scaling of physiological/behavioral data.
 Feature extraction using deep learning embeddings.
+
 📂 Repository Contents
+
 📑 AI Powered Depression Prediction System Using SVM CNN-LSTM.pptx – A presentation explaining the methodology, architecture, dataset, and results.
+
 🗂️ (Optional) Data Folder – Contains preprocessed datasets (if included in the repository).
-🖥️ (Optional) Model Training Scripts – Python notebooks or scripts used for training and evaluation
-📜 README.md – This document!
+
+🖥️ (Optional) Model Training Scripts – Python notebooks or scripts used for training and evaluation.
 
